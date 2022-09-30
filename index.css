@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#increase_btn{
+    background-color: blue;
+}
+
+#save_btn{
+    background-color: green;
+}
+
+#reset_btn{
+    background-color: red;
+}
